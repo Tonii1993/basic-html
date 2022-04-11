@@ -31,9 +31,9 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   text-align: left;
-  padding: 8px;
+  padding: 5px;
 }
 
 tr:nth-child(even) {
@@ -41,8 +41,8 @@ tr:nth-child(even) {
 }
 
 .bootstrap-icons {
-  margin: 10;
-  padding: 5;
+  margin: 5px;
+  padding: 2px;
 }
 
 .style-bootstrap {
@@ -50,6 +50,7 @@ tr:nth-child(even) {
   padding: auto;
 }
 
-.glyphicon glyphicon-cloud {
-  margin: 5px;
+.glyphicon-glyphicon-cloud {
+  margin: 8px;
+  padding: 5px;
 }
