@@ -21,11 +21,13 @@ p {
 
 
 table {
+  border: 2px;
   margin: 8px;
   padding: 10px;
   font-family: arial;
   border-collapse: collapse;
   width: 50%;
+  border-radius: 20px;
 }
 
 td, th {
@@ -41,4 +43,13 @@ tr:nth-child(even) {
 .bootstrap-icons {
   margin: 10;
   padding: 5;
+}
+
+.style-bootstrap {
+  margin: 5px;
+  padding: auto;
+}
+
+.glyphicon glyphicon-cloud {
+  margin: 5px;
 }
