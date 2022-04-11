@@ -23,9 +23,9 @@ p {
 table {
   margin: 8px;
   padding: 10px;
-  font-family: arial, sans-serif;
+  font-family: arial;
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
 }
 
 td, th {
