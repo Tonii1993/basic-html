@@ -21,6 +21,8 @@ p {
 
 
 table {
+  margin: 8px;
+  padding: 10px;
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -34,4 +36,9 @@ td, th {
 
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+
+.bootstrap-icons {
+  margin: 10;
+  padding: 5;
 }
