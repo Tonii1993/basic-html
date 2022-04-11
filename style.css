@@ -1,6 +1,6 @@
 
 h1 {
-    padding: 60px;
+    padding: 50px;
     text-align: center;
     background: #1abc9c;
     color: white;
@@ -10,11 +10,11 @@ h1 {
 p {
    font-family: "Times New Roman", Times, serif;
    background-position: 1cm;
-   color: blue;
+   color: rgb(29, 29, 80);
  }
 
  ul {
-     color: #1abc9c;
+     color: #0c1815;
      font-size: small;
      font-family: Arial, Helvetica, sans-serif;
  }
